@@ -1,0 +1,18 @@
+
+{
+  "expo": {
+    "name": "LUXEN SHOP",
+    "slug": "luxen-shop",
+    "scheme": "luxenshop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.luxenshop.mobile",
+      "versionCode": 1
+    }
+  }
+}
